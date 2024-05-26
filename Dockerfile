@@ -1,2 +1,2 @@
 FROM nginx
-copy ./usr/share/nginx/html/
+COPY ./beginner-html-site-styled-gh-pages /usr/share/nginx/html/
